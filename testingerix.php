@@ -1,0 +1,3 @@
+<?php
+echo "erix ganteng";
+?>
